@@ -1,2 +1,1 @@
-# My-Recipe---Crispy-Fried-Corn
-solution for masterchef junior -  American Corn
+# PRO-C26-MASTERCHEF-JUNIOR
